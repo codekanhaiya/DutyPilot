@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Aarav",
+    "id": "KLM001",
+    "special": false
+  },
+  {
+    "name": "Ishita",
+    "id": "NOP002",
+    "special": true
+  },
+  {
+    "name": "Vivaan",
+    "id": "QRS003",
+    "special": false
+  },
+  {
+    "name": "Diya",
+    "id": "TUV004",
+    "special": true
+  },
+  {
+    "name": "Aditya",
+    "id": "WXY005",
+    "special": false
+  },
+  {
+    "name": "Kiara",
+    "id": "ZAB006",
+    "special": true
+  },
+  {
+    "name": "Reyansh",
+    "id": "CDE007",
+    "special": false
+  },
+  {
+    "name": "Anaya",
+    "id": "FGH008",
+    "special": false
+  },
+  {
+    "name": "Atharv",
+    "id": "IJK009",
+    "special": true
+  },
+  {
+    "name": "Myra",
+    "id": "LMN010",
+    "special": false
+  },
+  {
+    "name": "Kabir",
+    "id": "OPQ011",
+    "special": true
+  },
+  {
+    "name": "Aadhya",
+    "id": "RST012",
+    "special": false
+  },
+  {
+    "name": "Aryan",
+    "id": "UVW013",
+    "special": false
+  },
+  {
+    "name": "Meera",
+    "id": "XYZ014",
+    "special": true
+  },
+  {
+    "name": "Krishna",
+    "id": "BCD015",
+    "special": false
+  },
+  {
+    "name": "Saanvi",
+    "id": "EFG016",
+    "special": true
+  },
+  {
+    "name": "Yuvraj",
+    "id": "HIJ017",
+    "special": false
+  },
+  {
+    "name": "Tanya",
+    "id": "KLO018",
+    "special": false
+  },
+  {
+    "name": "Shaurya",
+    "id": "PQR019",
+    "special": true
+  },
+  {
+    "name": "Pari",
+    "id": "STU020",
+    "special": false
+  },
+  {
+    "name": "Laksh",
+    "id": "VWX021",
+    "special": true
+  },
+  {
+    "name": "Navya",
+    "id": "YZA022",
+    "special": false
+  },
+  {
+    "name": "Dev",
+    "id": "BCD023",
+    "special": false
+  },
+  {
+    "name": "Riya",
+    "id": "EFH024",
+    "special": true
+  },
+  {
+    "name": "Veer",
+    "id": "GHI025",
+    "special": false
+  },
+  {
+    "name": "Nisha",
+    "id": "JKL026",
+    "special": true
+  },
+  {
+    "name": "Harsh",
+    "id": "MNO027",
+    "special": false
+  },
+  {
+    "name": "Ira",
+    "id": "PQS028",
+    "special": false
+  },
+  {
+    "name": "Om",
+    "id": "TRU029",
+    "special": true
+  },
+  {
+    "name": "Tanvi",
+    "id": "VWX030",
+    "special": false
+  },
+  {
+    "name": "Neil",
+    "id": "YAZ031",
+    "special": false
+  },
+  {
+    "name": "Simran",
+    "id": "BCE032",
+    "special": true
+  },
+  {
+    "name": "Rudra",
+    "id": "FGI033",
+    "special": false
+  },
+  {
+    "name": "Sneha",
+    "id": "HIQ034",
+    "special": true
+  },
+  {
+    "name": "Aman",
+    "id": "KLP035",
+    "special": false
+  },
+  {
+    "name": "Prisha",
+    "id": "MNS036",
+    "special": true
+  },
+  {
+    "name": "Manav",
+    "id": "OPQ037",
+    "special": false
+  },
+  {
+    "name": "Lavanya",
+    "id": "RST038",
+    "special": false
+  },
+  {
+    "name": "Arnav",
+    "id": "UVW039",
+    "special": true
+  },
+  {
+    "name": "Rhea",
+    "id": "XYZ040",
+    "special": false
+  },
+  {
+    "name": "Ishan",
+    "id": "BDF041",
+    "special": false
+  },
+  {
+    "name": "Mira",
+    "id": "EGH042",
+    "special": true
+  },
+  {
+    "name": "Darsh",
+    "id": "IJK043",
+    "special": false
+  },
+  {
+    "name": "Pihu",
+    "id": "LMN044",
+    "special": true
+  },
+  {
+    "name": "Raj",
+    "id": "OPR045",
+    "special": false
+  },
+  {
+    "name": "Trisha",
+    "id": "STU046",
+    "special": false
+  },
+  {
+    "name": "Naman",
+    "id": "VWY047",
+    "special": true
+  },
+  {
+    "name": "Jiya",
+    "id": "XYZ048",
+    "special": false
+  },
+  {
+    "name": "Samar",
+    "id": "ABD049",
+    "special": true
+  },
+  {
+    "name": "Aarya",
+    "id": "CEF050",
+    "special": false
+  }
+]

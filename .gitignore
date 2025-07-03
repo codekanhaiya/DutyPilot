@@ -1,0 +1,29 @@
+# Dependency folders
+/node_modules
+/client/node_modules
+
+# Production builds
+/client/build
+/dist
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Environment variables (if you use them)
+.env
+.env.local
+
+# Electron build artifacts
+/build/
+out/
+*.exe
+*.dmg
+*.AppImage
