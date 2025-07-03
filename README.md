@@ -138,7 +138,7 @@ npm run build
 
 Get started with DutyPilot by downloading the official Windows installer:
 
-[⬇️ Download DutyPilot v1.0.0](https://github.com/codekanhaiya/DutyPilot/releases/download/v1.0.0/dutyPilot_setup_1.0.0.exe) 
+[⬇️ Download DutyPilot v1.0.0](https://github.com/codekanhaiya/DutyPilot/releases/download/v1.0.0/DutyPilot.Setup.1.0.0.exe) 
 
 ### 📦 Installer Info
 - **File**: `DutyPilot.Setup.1.0.0.exe`
