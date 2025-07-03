@@ -134,6 +134,21 @@ npm run build
 | Data Storage  | Local JSON file system  |
 | Packaging     | electron-builder (NSIS) |
 
+## 🚀 Download DutyPilot
+
+Get started with DutyPilot by downloading the official Windows installer:
+
+[⬇️ Download DutyPilot v1.0.0](https://github.com/your-username/codekanhaiya/releases/download/v1.0.0/DutyPilot.Setup.1.0.0.exe) 
+
+### 📦 Installer Info
+- **File**: `DutyPilot.Setup.1.0.0.exe`
+- **Version**: 1.0.0
+- **Supported OS**: Windows 10 / 11
+- **Release Date**: July 2025
+
+> 🛠️ After downloading, double-click the `.exe` file to begin the installation process.
+
+
 ## 👨‍💻 Author
 
 **Kanhaiya Gupta**  
