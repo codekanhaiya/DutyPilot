@@ -55,7 +55,7 @@ DUTYPILOT/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/dutypilot.git
+git clone https://github.com/codekanhaiya/DutyPilot.git
 cd dutypilot
 ```
 
